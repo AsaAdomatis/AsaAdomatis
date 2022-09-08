@@ -18,10 +18,10 @@
 
 ---
 
-### :man_technoligist: About Me:
+### :man_technologist: About Me:
  - :zap: In my free time I play video games with my roomate and work on my own collectible card game.
 
- ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
