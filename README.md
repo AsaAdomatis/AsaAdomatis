@@ -9,8 +9,23 @@
 <div id="views" align="center">
     <img src="https://komarev.com/ghpvc/?username=AsaAdomatis&style=flat-square&color=green" alt=""/>
 </div>
+
+---
+
 <div id="coding gif" align="center">
     <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt=""/>
 </div>
 
+---
 
+### :man_technoligist: About Me:
+ - :zap: In my free time I play video games with my roomate and work on my own collectible card game.
+
+ ---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+
+</div>
