@@ -6,6 +6,7 @@
     <a href="https://www.linkedin.com/in/asa-adomatis-307074221/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=AsaAdomatis&style=flat-square&color=green" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AsaAdomatis&style=flat-square&color=green" alt=""/>
+
