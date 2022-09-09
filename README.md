@@ -10,8 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=AsaAdomatis&style=flat-square&color=green" alt=""/>
 </div>
 
----
-
 <div id="coding gif" align="center">
     <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt=""/>
 </div>
