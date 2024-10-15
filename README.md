@@ -10,16 +10,11 @@
     <img src="https://komarev.com/ghpvc/?username=AsaAdomatis&style=flat-square&color=green" alt=""/>
 </div>
 
-<div id="coding gif" align="center">
-    <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt=""/>
-</div>
-
 ---
-
-### :man_technologist: About Me:
- - :zap: In my free time I play video games with my roomate and work on my own collectible card game.
-
----
+### About Me :
+- Interested in AI
+- Enthusiastic about TCGs and Creation
+- Lover of language and all the nerdy nitty gritty that comes with it
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
